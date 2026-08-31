@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--FBA shuffle local gamelist file-->
+<!--You can edit this file manually-->
+<gamelist>
+	<game>
+		<name>neomvs</name>
+		<source>Neo-Geo MVS SYSTEM</source>
+		<translation>Neo-Geo MVS SYSTEM</translation>
+	</game>
+	<game>
+		<name>mslug</name>
+		<source>Metal Slug - Super Vehicle-001</source>
+		<translation>合金弹头 1: 超级坦克 - 001</translation>
+	</game>
+	<game>
+		<name>mslug2</name>
+		<source>Metal Slug 2 - Super Vehicle-001/II (NGM-2410)</source>
+		<translation>合金弹头 2: 超级坦克 - 001 / II (NGM-2410)</translation>
+	</game>
+	<game>
+		<name>mslug3</name>
+		<source>Metal Slug 3 (NGM-2560)</source>
+		<translation>合金弹头 3 (NGM-2560)</translation>
+	</game>
+	<game>
+		<name>mslug4</name>
+		<source>Metal Slug 4 (NGM-2630)</source>
+		<translation>合金弹头 4 (NGM-2630)</translation>
+	</game>
+	<game>
+		<name>mslug5</name>
+		<source>Metal Slug 5 (NGM-2680)</source>
+		<translation>合金弹头 5 (NGM-2680)</translation>
+	</game>
+	<game>
+		<name>mslugx</name>
+		<source>Metal Slug X - Super Vehicle-001 (NGM-2500)</source>
+		<translation>合金弹头 X: 超级坦克 - 001 (NGM-2500)</translation>
+	</game>
+	<game>
+		<name>sfiii3</name>
+		<source>Street Fighter III 3rd Strike: Fight for the Future</source>
+		<translation>街头霸王 III - 三度冲击 为未来而战</translation>
+	</game>
+	<game>
+		<name>dino</name>
+		<source>Cadillacs and Dinosaurs (World 930201)</source>
+		<translation>恐龙新世纪 (世界版 930201)</translation>
+	</game>
+	<game>
+		<name>kof2000</name>
+		<source>The King of Fighters 2000 (NGM-2570)</source>
+		<translation>拳皇 2000 (NGM-2570)</translation>
+	</game>
+	<game>
+		<name>kof2001</name>
+		<source>The King of Fighters 2001 (NGM-262?)</source>
+		<translation>拳皇 2001 (NGM-262?)</translation>
+	</game>
+	<game>
+		<name>kof2002</name>
+		<source>The King of Fighters 2002 (NGM-2650)</source>
+		<translation>拳皇 2002 (NGM-2650)</translation>
+	</game>
+	<game>
+		<name>kf2k2mp</name>
+		<source>The King of Fighters 2002 Magic Plus</source>
+		<translation>拳皇 2002 Magic Plus</translation>
+	</game>
+	<game>
+		<name>kf2k2mp2</name>
+		<source>The King of Fighters 2002 Magic Plus II</source>
+		<translation>拳皇 2002 Magic Plus II</translation>
+	</game>
+	<game>
+		<name>kf2k2pls</name>
+		<source>The King of Fighters 2002 Plus</source>
+		<translation>拳皇 2002 风云再起</translation>
+	</game>
+	<game>
+		<name>kf2k2pla</name>
+		<source>The King of Fighters 2002 Plus</source>
+		<translation>拳皇 2002 风云再起 Plus</translation>
+	</game>
+	<game>
+		<name>kof2003</name>
+		<source>The King of Fighters 2003 (NGM-2710)</source>
+		<translation>拳皇 2003 (NGM-2710)</translation>
+	</game>
+	<game>
+		<name>kof97</name>
+		<source>The King of Fighters '97 (NGM-2320)</source>
+		<translation>拳皇 '97 (NGM-2320)</translation>
+	</game>
+	<game>
+		<name>kog</name>
+		<source>King of Gladiator</source>
+		<translation>拳皇 '97 格斗之王</translation>
+	</game>
+	<game>
+		<name>kof97pla</name>
+		<source>The King of Fighters '97 Chongchu Jianghu Plus 2003</source>
+		<translation>拳皇 '97 重出江湖 Plus 2003</translation>
+	</game>
+	<game>
+		<name>kof97pls</name>
+		<source>The King of Fighters '97 Plus</source>
+		<translation>拳皇 '97 风云再起 Plus</translation>
+	</game>
+	<game>
+		<name>kof98</name>
+		<source>The King of Fighters '98 - The Slugfest / King of Fighters '98 - Dream Match Never Ends (NGM-2420)</source>
+		<translation>拳皇 '98 - 梦战斗未结束 (NGM-2420)</translation>
+	</game>
+	<game>
+		<name>kof99</name>
+		<source>The King of Fighters '99 - Millennium Battle (NGM-2510)</source>
+		<translation>拳皇 '99 - 千年之战 (NGM-2510)</translation>
+	</game>
+	<game>
+		<name>kof10th</name>
+		<source>The King of Fighters 10th Anniversary (The King of Fighters 2002 bootleg)</source>
+		<translation>拳皇 十周年纪念 (拳皇 2002 修改版)</translation>
+	</game>
+	<game>
+		<name>kov</name>
+		<source>Knights of Valour / San Guo Zhan Ji (ver. 117)</source>
+		<translation>三国战纪 (版本 117)</translation>
+	</game>
+	<game>
+		<name>kovsh</name>
+		<source>Knights of Valour Super Heroes / San Guo Zhan Ji - Feng Yun Zai Qi (ver. 104, CN)</source>
+		<translation>三国战纪 - 风云再起 (版本 104, CN)</translation>
+	</game>
+	<game>
+		<name>kovshp</name>
+		<source>Knights of Valour Super Heroes Plus / San Guo Zhan Ji - Luan Shi Xiao Xiong (ver. 101)</source>
+		<translation>三国战纪 - 乱世枭雄 (版本 101)</translation>
+	</game>
+	<game>
+		<name>kovassg</name>
+		<source>Knights of Valour Super Heroes Plus / San Guo Zhan Ji - Ao Shi San Guo (ver. 202CN)</source>
+		<translation>三国战纪 - 傲世三国 (版本 202CN)</translation>
+	</game>
+	<game>
+		<name>kovytzy</name>
+		<source>Knights of Valour Super Heroes / San Guo Zhan Ji - Yi Tong Zhong Yuan (ver. 201)</source>
+		<translation>三国战纪 - 一统中原 (版本 201)</translation>
+	</game>
+	<game>
+		<name>kovplus</name>
+		<source>Knights of Valour Plus / San Guo Zhan Ji - Zheng Zong Plus (ver. 119)</source>
+		<translation>三国战纪 - 正宗 PLUS (版本 119)</translation>
+	</game>
+	<game>
+		<name>kov2</name>
+		<source>Knights of Valour 2 / San Guo Zhan Ji 2 (ver. 107, 102, 100HK)</source>
+		<translation>三国战纪 2 (版本 107, 102, 100HK)</translation>
+	</game>
+	<game>
+		<name>kov2p</name>
+		<source>Knights of Valour 2 Plus - Nine Dragons / San Guo Zhan Ji 2 - Qun Xiong Zheng Ba (ver. M205XX, 200, 100CN)</source>
+		<translation>三国战纪 2 - 群雄争霸 (版本 M205XX, 200, 100CN)</translation>
+	</game>
+	<game>
+		<name>kov2nl</name>
+		<source>Knights of Valour 2 New Legend / San Guo Zhan Ji 2 Gai Shi Ying Xiong (V302)</source>
+		<translation>三国战纪 2 - 盖世英雄 (版本 302)</translation>
+	</game>
+	<game>
+		<name>neobombe</name>
+		<source>Neo Bomberman</source>
+		<translation>炸弹人: Neo 机皇版</translation>
+	</game>
+	<game>
+		<name>punisher</name>
+		<source>The Punisher (World 930422)</source>
+		<translation>惩罚者 (世界版 930422)</translation>
+	</game>
+</gamelist>
