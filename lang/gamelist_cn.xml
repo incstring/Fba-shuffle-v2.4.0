@@ -39,8 +39,8 @@
 	</game>
 	<game>
 		<name>sfiii3</name>
-		<source>Street Fighter III 3rd Strike: Fight for the Future</source>
-		<translation>街头霸王 III - 三度冲击 为未来而战</translation>
+		<source>Street Fighter III 3rd Strike: Fight for the Future (Euro 990608)</source>
+		<translation>街头霸王 III - 三度冲击 为未来而战 (欧洲版 990608)</translation>
 	</game>
 	<game>
 		<name>dino</name>
@@ -129,8 +129,8 @@
 	</game>
 	<game>
 		<name>kovsh</name>
-		<source>Knights of Valour Super Heroes / San Guo Zhan Ji - Feng Yun Zai Qi (ver. 104, CN)</source>
-		<translation>三国战纪 - 风云再起 (版本 104, CN)</translation>
+		<source>Knights of Valour Super Heroes / San Guo Zhan Ji - Feng Yun Zai Qi (ver. 104)</source>
+		<translation>三国战纪 - 风云再起 (版本 104)</translation>
 	</game>
 	<game>
 		<name>kovshp</name>
@@ -154,13 +154,13 @@
 	</game>
 	<game>
 		<name>kov2</name>
-		<source>Knights of Valour 2 / San Guo Zhan Ji 2 (ver. 107, 102, 100HK)</source>
-		<translation>三国战纪 2 (版本 107, 102, 100HK)</translation>
+		<source>Knights of Valour 2 / San Guo Zhan Ji 2 (ver. 107)</source>
+		<translation>三国战纪 2 (版本 107)</translation>
 	</game>
 	<game>
 		<name>kov2p</name>
-		<source>Knights of Valour 2 Plus - Nine Dragons / San Guo Zhan Ji 2 - Qun Xiong Zheng Ba (ver. M205XX, 200, 100CN)</source>
-		<translation>三国战纪 2 - 群雄争霸 (版本 M205XX, 200, 100CN)</translation>
+		<source>Knights of Valour 2 Plus - Nine Dragons / San Guo Zhan Ji 2 - Qun Xiong Zheng Ba (ver. M205XX)</source>
+		<translation>三国战纪 2 - 群雄争霸 (版本 M205XX)</translation>
 	</game>
 	<game>
 		<name>kov2nl</name>
