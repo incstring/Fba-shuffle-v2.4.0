@@ -28,7 +28,7 @@ The emulator will restore default settings when this file is deleted-->
 	</audio>
 	<gui>
 		<language>.\lang\zh_CN.dll</language>
-		<gamelist>D:\Desktop\Fba shuffle v2.4.0\lang\gamelist_cn.xml</gamelist>
+		<gamelist>E:\Documents\Gitee\fba-shuffle-v2.4.0\lang\gamelist_cn.xml</gamelist>
 		<window size="4" posx="184" posy="79" on-top="false" auto-fullscreen="false" nosplash="true" splash-time="1500" />
 		<gamelist-dlg options="243" sys-sel="0" tab-sel="1">
 			<user-filter></user-filter>
