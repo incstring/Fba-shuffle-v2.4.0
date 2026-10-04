@@ -63,16 +63,6 @@
 		<translation>拳皇 2002 (NGM-2650)</translation>
 	</game>
 	<game>
-		<name>kf2k2mp</name>
-		<source>The King of Fighters 2002 Magic Plus</source>
-		<translation>拳皇 2002 Magic Plus</translation>
-	</game>
-	<game>
-		<name>kf2k2mp2</name>
-		<source>The King of Fighters 2002 Magic Plus II</source>
-		<translation>拳皇 2002 Magic Plus II</translation>
-	</game>
-	<game>
 		<name>kf2k2pls</name>
 		<source>The King of Fighters 2002 Plus</source>
 		<translation>拳皇 2002 风云再起</translation>
@@ -83,29 +73,9 @@
 		<translation>拳皇 2002 风云再起 Plus</translation>
 	</game>
 	<game>
-		<name>kof2003</name>
-		<source>The King of Fighters 2003 (NGM-2710)</source>
-		<translation>拳皇 2003 (NGM-2710)</translation>
-	</game>
-	<game>
 		<name>kof97</name>
 		<source>The King of Fighters '97 (NGM-2320)</source>
 		<translation>拳皇 '97 (NGM-2320)</translation>
-	</game>
-	<game>
-		<name>kog</name>
-		<source>King of Gladiator</source>
-		<translation>拳皇 '97 格斗之王</translation>
-	</game>
-	<game>
-		<name>kof97pla</name>
-		<source>The King of Fighters '97 Chongchu Jianghu Plus 2003</source>
-		<translation>拳皇 '97 重出江湖 Plus 2003</translation>
-	</game>
-	<game>
-		<name>kof97pls</name>
-		<source>The King of Fighters '97 Plus</source>
-		<translation>拳皇 '97 风云再起 Plus</translation>
 	</game>
 	<game>
 		<name>kof98</name>
@@ -116,11 +86,6 @@
 		<name>kof99</name>
 		<source>The King of Fighters '99 - Millennium Battle (NGM-2510)</source>
 		<translation>拳皇 '99 - 千年之战 (NGM-2510)</translation>
-	</game>
-	<game>
-		<name>kof10th</name>
-		<source>The King of Fighters 10th Anniversary (The King of Fighters 2002 bootleg)</source>
-		<translation>拳皇 十周年纪念 (拳皇 2002 修改版)</translation>
 	</game>
 	<game>
 		<name>kov</name>
