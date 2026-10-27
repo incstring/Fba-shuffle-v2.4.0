@@ -55,7 +55,7 @@
 			<port type="service" switch="10" />
 			<port type="service2" switch="11" />
 			<port type="Dip A" constant="0" />
-			<port type="Dip B" constant="5" />
+			<port type="Dip B" constant="0" />
 			<port type="Dip C" constant="1" />
 			<macro type="P1 Button AB" switch="22" />
 			<macro type="P1 Button BC" switch="51" />
