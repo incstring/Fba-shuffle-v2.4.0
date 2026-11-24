@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--FBA shuffle patch config file-->
+<patch>
+	<ips>JZ.dat</ips>
+	<ips>ULMSV1.dat</ips>
+	<ips>ULMSV2.dat</ips>
+</patch>
