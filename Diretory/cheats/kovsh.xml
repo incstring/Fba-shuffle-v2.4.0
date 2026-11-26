@@ -369,7 +369,7 @@
 			<parameter cpu="0" address="0x803b83" value="0x09"/>
 		</option>
 	</cheat>
-	<cheat desc="开启隐藏人物许禇" default="0">
+	<cheat desc="开启隐藏人物许禇" default="1">
 		<option desc="关闭"/>
 		<option desc="开启">
 			<parameter cpu="0" address="0x803B87" value="0x00"/>
