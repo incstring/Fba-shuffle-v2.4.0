@@ -12392,7 +12392,7 @@
 		</option>
 	</cheat>
 	<cheat desc=" "/>
-	<cheat desc="修复收服夏侯渊定版BUG" default="0">
+	<cheat desc="修复收服夏侯渊定版BUG" default="1">
 		<option desc="关闭"/>
 		<option desc="开启">
 			<parameter cpu="0" address="0x1A7378" value="0x67"/>
